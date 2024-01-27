@@ -1,4 +1,4 @@
-class Player {
+class Player1 {
     //instance variables - What player knows
     health: number
     speed: number
@@ -9,8 +9,8 @@ class Player {
     }
 }
 
-const mario = new Player()
+const mario1 = new Player1()
 
-mario.health = 10
-mario.speed = 1
-mario.greet()
+mario1.health = 10
+mario1.speed = 1
+mario1.greet()
