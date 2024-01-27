@@ -1,2 +1,1 @@
-# learn-objected-oriented-typescript-
-Objected Oriented Typescript
+# learn-object-oriented-typescript
